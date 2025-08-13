@@ -1,4 +1,4 @@
-# 🛍️ Myntra Sales & Orders Analysis Dashboard 📊
+# 🛍️ Myntra-Sales-Orders-Analysis-Power-BI-Dashboard 📊
 ![Screenshot 2025-07-03 201333](https://github.com/user-attachments/assets/adb17367-7400-4dc8-b02c-54356b01c90c)
 
 ## 📂 Project Scenario
